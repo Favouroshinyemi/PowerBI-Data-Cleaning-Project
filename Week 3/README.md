@@ -1,4 +1,4 @@
-Sales Performance Dashboard | Power BI
+##Sales Performance Dashboard | Power BI
 
 ## Project Overview
 This project involved creating an interactive Sales Performance Dashboard using Microsoft Power BI. The dashboard was designed to provide an overview of sales performance by visualizing key business metrics and exploring revenue across different categories, regions, order statuses and months.
