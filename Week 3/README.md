@@ -5,8 +5,6 @@ This project involved creating an interactive Sales Performance Dashboard using 
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
-
 ## Key Performance Indicators (KPIs)
 - *Total Net Sales:* 15.02bn
 - *Total Profit:* ₦4.94bn
